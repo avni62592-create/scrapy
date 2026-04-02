@@ -1,5 +1,5 @@
-|logo|
-
++90 539 564 20 39|logo|
+Volkan.umuc_41
 .. |logo| image:: https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/logo.svg
    :target: https://scrapy.org
    :alt: Scrapy
